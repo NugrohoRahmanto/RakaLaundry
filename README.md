@@ -2,10 +2,10 @@
 
 # Local Installation
 
-- run `` git clone https://github.com/NugrohoRahmanto/RakaLaundry.git``
-- run ``composer install `` 
+- run `` git clone https://github.com/NugrohoRahmanto/RakaLaundry.git ``
+- run `` composer install `` 
 - run `` npm install ``
-- run ``npm run dev``
+- run `` npm run dev ``
 - copy .env.example to .env
 - run `` php artisan key:generate ``
 - set up your database in the .env
