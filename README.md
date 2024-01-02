@@ -16,4 +16,4 @@ This documentation of raka laundry apps using laravel
 - run `` php artisan serve ``
 - then visit `` http://localhost:8000 or http://127.0.0.1:8000 ``.
 
-Developed by PpencariPahala Group
+Developed by PencariPahala Group
